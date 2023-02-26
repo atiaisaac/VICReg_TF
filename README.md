@@ -13,15 +13,22 @@ The loss terms which consists of;
 
 The paper points out that, it is the variance and covariance terms that play the active role of preserving information and avoiding a degenerate solution. 
 
-You can follow this wandb link to take a look at my experiments and the various parameters that changed along the way and how they affected performance. Training was done with TPU
+The notebook attached is the one of many, however, you can follow the links in the *notebooks* session to take a look at the other notebooks and their respective performances.
+
+# Notebooks
+
+| Pretrain | linear eval | 
+| --------- | ---------- |  
+
+
 
 # References
 
-1. https://www.youtube.com/watch?v=XtgVYrQuIyA
-2. ChatGPT (which helped me to understand covariance properly as well as an idea to structure the loss terms)
-3. [VICReg paper](https://arxiv.org/pdf/2105.04906.pdf)
-4. [VICReg implementation in Pytorch](https://github.com/facebookresearch/vicreg)
-
+1. [VICReg paper (Adrien Bardes, Jean Ponce, Yann LeCun.ICLR 2022)](https://arxiv.org/pdf/2105.04906.pdf)
+2. [Official VICReg implementation in Pytorch](https://github.com/facebookresearch/vicreg)
+3. [YouTube video explaining VICReg by DeepReader](https://youtu.be/MzKDNmOJ67Q)
+4. ChatGPT (provided the starting point to implement the loss function)
+5. [Unofficial VICReg implementation in Jax](https://github.com/BalajiAI/VICReg)
 
 
 # Citation
