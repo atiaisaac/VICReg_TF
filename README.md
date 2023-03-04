@@ -13,17 +13,6 @@ The loss terms which consists of;
 
 The paper points out that, it is the variance and covariance terms that play the active role of preserving information and avoiding a degenerate solution. 
 
-The notebook attached is the one of many, however, you can follow the links in the *notebooks* session to take a look at the other notebooks and their respective performances.
-
-# Notebooks
-
-| Pretrain | | linear eval | | 
-| --------- | - | ---------- | - |
-| notebook | report | notebook | report |
-| [exp_1](https://colab.research.google.com/drive/1aQBdvPCeB7uo5wk8EVju7Akw6UwO_X-4#scrollTo=9-mvt3y81kON) | [report_1](https://api.wandb.ai/links/atiaisaac007/cet25qif) | [Eval_1](https://colab.research.google.com/drive/1lKGFmx8KZiqQrIDlIzr-681KoDMiLTIW#scrollTo=nj3K4AV0fzkJ) | [eval report_1](https://api.wandb.ai/links/atiaisaac007/wmuvpfch) | 
-| alk;fdlk | [report_2](https://api.wandb.ai/links/atiaisaac007/9c9rvjk7) | akldsfj | aldfj |
-
-
 
 # References
 
