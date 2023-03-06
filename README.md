@@ -13,6 +13,12 @@ The loss terms which consists of;
 
 The paper points out that, it is the variance and covariance terms that play the active role of preserving information and avoiding a degenerate solution. 
 
+# Reports
+
+| Pretrain | Linear Evaluation |
+| -------- | ----------------- |
+| [Pretrain report](https://api.wandb.ai/links/atiaisaac007/1vjzet87) | [Eval report](https://api.wandb.ai/links/atiaisaac007/6ikxe99k) |
+
 
 # References
 
