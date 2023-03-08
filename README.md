@@ -17,7 +17,7 @@ The paper points out that, it is the variance and covariance terms that play the
 
 | Pretrain | Linear Evaluation |
 | -------- | ----------------- |
-| [Pretrain report](https://api.wandb.ai/links/atiaisaac007/1vjzet87) | [Eval report](https://api.wandb.ai/links/atiaisaac007/6ikxe99k) |
+| [Pretrain report](https://api.wandb.ai/links/atiaisaac007/tjvqppxu) | [Eval report](https://api.wandb.ai/links/atiaisaac007/d90gr1ew) |
 
 
 # References
